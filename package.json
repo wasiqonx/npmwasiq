@@ -1,0 +1,7 @@
+{
+    "name": "notrealwasiq",
+    "version": "1.0.3",
+    "bin": {
+        "wasiqmujtaba": "index.js"
+    }
+}
